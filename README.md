@@ -5,3 +5,7 @@ Rda data for 12 tumors here. You only need to place them the Rda files in the sa
 
 https://drive.google.com/open?id=1NSIh4fqvXm5bWx7GBqIOGyC4s8dYhiMk
 
+
+TFM in Google Docs (spanish):
+
+https://docs.google.com/document/d/e/2PACX-1vSqTswCVJBQRs9E3P8s4huU4HrfDk-LjRlC2UxSKMhoGItPgDTYCufXbBDl-SXRkPriQmC44NTN4A-S/pub
