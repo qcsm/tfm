@@ -137,10 +137,10 @@ ui <- fluidPage(
       h5("After consensus analysis, shared and specific genes between any 2 modules can be exported for further analysis"),
       hr(),
       selectInput(inputId = "moduleA", 
-                  label = "Select Module:",
+                  label = "Select Tumor Module:",
                   choices = "None"),
       selectInput(inputId = "moduleCons", 
-                  label = "Select Module:",
+                  label = "Select Consensus Module:",
                   choices = "None"),
       actionButton('mods','Get genes!')
     ),
