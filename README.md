@@ -6,6 +6,10 @@ Master Thesis in Google Docs (spanish):
 
 https://docs.google.com/document/d/e/2PACX-1vSqTswCVJBQRs9E3P8s4huU4HrfDk-LjRlC2UxSKMhoGItPgDTYCufXbBDl-SXRkPriQmC44NTN4A-S/pub
 
+Presentation:
+
+https://docs.google.com/presentation/d/1gDQPaApmWmV7bhzEE9IjVv7OYwFDu9p52fLFUj-TfhI/
+
 Feel free to translate it.
 ...and let me know!
 
