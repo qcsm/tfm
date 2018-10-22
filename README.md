@@ -20,7 +20,7 @@ Currently this Shiny app can be used standalone or in a docker container.
 2. Download the Rda matrix data for 12 tumors in the link below. You only need to place the Rda files in the same directory with ``app.R`` https://drive.google.com/open?id=1NSIh4fqvXm5bWx7GBqIOGyC4s8dYhiMk
 3. Install R
 4. You need to install shiny, ape, bioconductor and WGCNA packages. 
-5. Package dplyr is needed if you plan to use the provided data retrieval R script. It will be needed for the next app version.
+5. Packages dplyr and RTCGA are needed if you plan to use the provided data retrieval R script. They will be required for the next version.
 6. RStudio is recommended.
 7. Run the script either from the command line (``Rscript``), inside R or from Rstudio.
 ### Docker image
