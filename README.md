@@ -27,7 +27,7 @@ Currently this Shiny app can be used standalone or in a docker container.
 1. Clone repository
 2. Download the Rda matrix data for 12 tumors in the link below. You only need to place the Rda files in the same directory with ``app.R`` https://drive.google.com/open?id=1NSIh4fqvXm5bWx7GBqIOGyC4s8dYhiMk
 3. ``sudo docker build -t shiny-app .``
-4. ``sudo docker run -u 0 --rm -p 3838:3838 --name shiny-app-deploy shiny-app``
+4. ``sudo docker run --rm -p 3838:3838 --name shiny-app-deploy shiny-app``
 5. Open http://localhost:3838 in your favorite browser.
 # Future work
 * Docker image should be smaller. I know. It is possible. However, it was not an easy task to prepare a minimum linux with all the needed packages, having to do a lot of manual work. In any case, the tumor data matrices take up too much disk: as a minimum you need more than one gigabyte like it or not. So for the time being one or two GB will do the same pains.
